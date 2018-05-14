@@ -2,7 +2,7 @@
 
 ## Documentation
 
-Please refer to http://docs.prediction.io/templates/leadscoring/quickstart/
+Please refer to https://predictionio.apache.org/templates/leadscoring/quickstart/
 
 ## Versions
 
